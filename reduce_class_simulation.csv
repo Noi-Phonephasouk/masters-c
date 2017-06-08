@@ -1,0 +1,69 @@
+4,"too many add-ons that should be included Gantt chart, agile boards difficult to use",1,"Data management, visualization and integration",5
+4,"too many add-ons that should be included Gantt chart, agile boards difficult to use",1,Board management,0
+8,Some find it hard to navigate.,1,Navigation and search,8
+11,estimating tickets seems a little hard to predict as a non developer.,1,Board management,0
+13,Sometimes the servers are not starting/stopping even after the scheduled time.,1,"Data management, visualization and integration",5
+15,I didn't find the mobile version to be as good of an experience as the web version.,1,Mobile services,6
+22,"sometimes you cannot select more than one person to be responsible for a task, thats something a little annoying",1,Board management,0
+25,The API isn't open enough for us to have a seamless integration between the two.,1,"Data management, visualization and integration",5
+35,I feel like there could be a lot more done with it E.G. Incorporating google docs or something like that into a project.,1,"Data management, visualization and integration",5
+37,"However, it's also complex enough to organize templates, manage schedule and workflow for multiple people and multiple projects, and support multiple kinds of project management methodology.",1,Board management,0
+38,"With all the tasks I have, those three ways to categorize my own tasks aren't enough, especially when you are dealing with a LOT of tasks per day.",1,Board management,0
+43,It's very complex to understand. I am getting notifications for the tasks for which I am not assigned.,1,Notifications,7
+48,"It does not have a shared calendar for employees to view a daily, monthly or yearly tasks divvied up, and there are no tutorials available online to teach users how to use the app.",1,Board management,0
+51,It miss important features like to possibility of each user order their projects the way they way.,1,Board management,0
+57,I also disliked the number of notifications the system sends for a project.,1,Notifications,7
+61,Wish there was a way to override scheduling/date changes,1,Board management,0
+65,The only complaint I have is that the view sorts of the tasks could be a little better more like Excel.,1,Board management,0
+66,I also wish the project sharing was slightly more intuitive,1,Board management,0
+66,I also wish the project sharing was slightly more intuitive,1,"Data management, visualization and integration",5
+67,"I liked using this software, however, it can become a bit difficult to find files and tasks once they are closed out.",1,Board management,0
+68,Not very customizable. Doesn't do time tracking very well.,1,Board management,0
+70,Things like selecting multiple tasks can become cumbersome. ,1,Board management,0
+71,Also sometimes finding tasks seems like a witch hunt. ,1,Navigation and search,8
+72,Time tracking is not the easiest to do on the platform.,1,Board management,0
+79,The only missing element for me was the lack of automatic link between time logged to tasks and time remaining.,1,Board management,0
+89,Limited ability to customize email notifications without premium subscription (generally all notifications or none); takes time to onboard entire team,1,Notifications,7
+101,"I struggle with visibility within a task. Can you create a view where I can see everything below each other, like SmartSheet?",1,Board management,0
+102,Sorting function does not automatically sort according to due date.,1,Navigation and search,8
+105,"Unfortunately, the document preview feature is not there yet. PDF or other complex documents cannot get previewed in the browser or the apps.",1,"Data management, visualization and integration",5
+120,The one drawback I've found is that my preferred time tracking app doesn't integrate with it.,1,"Data management, visualization and integration",5
+121,Does not integrate with google calendar.,1,"Data management, visualization and integration",5
+124,"Sometimes things get lost. I know its because they were not set up correctly, but then we scratch our head to find it.",1,Navigation and search,8
+125,Copying folders can be a little tricky,1,Board management,0
+127,I wish there were a distinction between being assigned to a task and following a task's progress. ,1,Board management,0
+128,I also wish that the task formatting were not so convoluted.,1,Board management,0
+131,I would like the side navigation bar to be more customizable (Drag and drop/ edit),1,Navigation and search,8
+139,"does not integrate well with competing products, one time editing software",1,"Data management, visualization and integration",5
+140,It is a little hard to take full advantage of the features without a lot of SQL knowledge and certain features like calendar integration are not fully there.,1,"Data management, visualization and integration",5
+141,"Doesn't have an inbuilt Test Management area to write Test Cases including Test Steps, although I know there are things that can integrate with it, but I previously looked at those and found not to suit our needs.",1,"Data management, visualization and integration",5
+146,"Most irritating are the varying layouts of tickets in the main view versus the side view that appears after you click the ticket number from a Kanban board or search results page. the smaller, cramped view has more features on it than the main view. this does not seem to be configurable.",1,Board management,0
+147,Sometimes the integrations are difficult to set up and it's hard to consume all the project information it keeps track of.,1,"Data management, visualization and integration",5
+149,I just wish it was easier to export the data you put into it and also import existing project information.,1,"Data management, visualization and integration",5
+150,"When there are many subtasks and linked tasks to a master task, the workflow can be difficult to follow at a single glance.",1,Board management,0
+151,"Finding the ""complete story"" button is always difficult for me. Every two weeks I have to try and remember where it is.",1,Navigation and search,8
+153,Sometimes the integrations are difficult to set up and it's hard to consume all the project information Jira keeps track of.,1,"Data management, visualization and integration",5
+154,It would be nice if it had deeper integrations with more messaging apps.,1,"Data management, visualization and integration",5
+155,The notifications are overly overwhelming by individual emails.,1,Notifications,7
+156,Can't assign multiple people to a single task - have to duplicate the task.,1,Board management,0
+157,"Not able to assign more than one person to a project; not able to copy and paste some things; once I organize my project list, it doesn't keep the order (glitch?)",1,Board management,0
+158,"API seems unstable at times, requiring a reload when viewing a task",1,Board management,0
+159,"It is hard to do parent/child tasks with clear comments, etc. ",1,Board management,0
+160,"The way the tasks show up under ""My Tasks"" is hard to understand and complete, so I always have to look at the project view.",1,Board management,0
+161,I think it's missing views into progress towards a set of projects or tasks. I want to use this not only assign tasks but use it for productivity analysis.,1,Board management,0
+162,It's easy to get lost in the tasks because you can have tasks and sub-tasks and sub-sub tasks...it's never ending.,1,Board management,0
+163,It is very hard to find items. The search is not that powerful.,1,Navigation and search,8
+164,Does not auto-populate new tasks by due dates.,1,Board management,0
+169,"not intuitive it does not show data in real time. e.g. if a colleague is updating something as the same time as the backlog being reviewed, that change will not show unless you refreesh the page on purpose",1,"Data management, visualization and integration",5
+169,"not intuitive it does not show data in real time. e.g. if a colleague is updating something as the same time as the backlog being reviewed, that change will not show unless you refreesh the page on purpose",1,Board management,0
+174,"In the user area, there are annoying defects that don't seem to ever be addressed - for example there is no way the order of tickets in an Agile board can be based on the tickets priority, although many users have complained.",1,Board management,0
+175,"Unwillingness to sort out issues in the ""too hard"" basket such as permissions and admin usability.",1,Board management,0
+175,"Unwillingness to sort out issues in the ""too hard"" basket such as permissions and admin usability.",1,Navigation and search,8
+177,Some times hard to find features.,1,Navigation and search,8
+181,"I can't seem to figure out if you can set multiple reminder updates, e.g. remind me 2 days out that a task is due, remind me 1 day out, etc",1,Board management,0
+184,"It lacks an integration that would be useful, with BaseCRM to create a task in a new project or existing project when a deal is concluded .",1,"Data management, visualization and integration",5
+188,sometimes hard to find the user story i'm looking for.,1,Navigation and search,8
+197,Poor Gantt chart integration (from my perspective) - Hard to get subtasks on scheduled - No project or task templating,1,"Data management, visualization and integration",5
+197,Poor Gantt chart integration (from my perspective) - Hard to get subtasks on scheduled - No project or task templating,1,Board management,0
+198,"Deleting tasks can be challenging sometime, especially if it is a nested task.",1,Board management,0
+201,"It does not currently have a time management feature, so it is easy to overbook a person with individual tasks.",1,Board management,0
