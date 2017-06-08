@@ -1,0 +1,770 @@
+7,0,1,"issue level Retrospective is missing,."
+72,0,1,"Where JIRA shines is where you have some custom workflows and such you want to use, which can be a pain to maintain."
+163,5,6,I haven't found a suitable integration into our other tool which makes it a bit hard to jump between the two.
+200,0,1,"The major issue I have with JIRA is a common one across this whole eco-system, which is the inability to share tickets across more than one assignee."
+202,0,1,"At the very least, ""epic"" style issues should be able to be assigned to multiple people."
+219,8,9,"In the cloud version, it can become a little bit slow sometimes, and you can't select more than one item in the search result."
+220,8,9,"You still can run bulk operations for all the returned items, but can't select a few... just one."
+221,6,7,Do not provide a mobile app.
+223,5,6,"The Github integration is great, but it is not fully supported like Bitbucket."
+247,8,9,"The interface is a mere juxtaposition of features, it is completely filled with buttons and options you don't need all the time thus being extremely hard to find the ones you do want."
+264,8,9,"Even with a relatively longterm background with simple code and commands, many users (including myself) found it hard to intuitively navigate through the multitude of options available."
+267,7,8,"One huge downside that I have realized is that when you work on a large scale program, the ALM Messaging alerts become annoying and then irrelevant."
+268,7,8,"Many users have so many messages on a daily basis that they have completely stopped using this feature, which is very unfortunate, because if these problems were addressed, it would be very valuable."
+321,0,1,I think a feature that I would like to addressed is the issue of duplication.
+341,8,9,Adding more people and more filters can be cumbersome at times and a few of the UI screens can get messy real quick depending on what you have displayed.
+376,0,1,The Agile board often crashes.
+380,0,1,It is not uncommon for a new field to crop up in an existing project.
+384,7,8,Emails- way too many!
+386,7,8,I want emails I just don't want too many.
+411,8,9,Can be difficult to navigate between multiple linked bugs/stories without losing track of where you started and opening multiple browser tabs.
+412,8,9,"When creating a new item, it can be easily lost if you don't navigate to it right away."
+414,8,9,Searching can be difficult without specific training on how to use the tool.
+463,0,1,Sometimes it is a bit overwhelming when being ticketed by the product manager.
+483,0,1,"I haven't found a quick and clean way to create a user personal area, so I haven't been able for example to create a private ToDo list."
+498,0,1,"My company has one of the largest instances of JIRA in the world, and at times it is very slow to use / hangs."
+503,0,1,Batch operations on stories sometimes take a very long time to process.
+504,7,8,Email sent for every update made to every single story.
+505,7,8,"This gets really, really annoying."
+521,8,9,"Finding pages and navigating page trees can be confusing if you are not exactly sure where things are housed, it would be nice for the flow to be a little more logical to someone who is not experienced with using this type of platform."
+547,0,1,I cannot assign a issue to multiple users.
+548,0,1,We work with pair programming and it would be nice to see two assignees in the issue.
+583,0,1,"While JIRA is great for task assignment and tracking in the context of Project Management, it doesn't allow you to work with tasks like you would a tool like Microsoft Project."
+585,0,1,"You can setup linkages and dependencies, but because you can't view these things in a linear timeline or gantt chart, it's not great for the actual planning exercise."
+585,5,6,"You can setup linkages and dependencies, but because you can't view these things in a linear timeline or gantt chart, it's not great for the actual planning exercise."
+660,0,1,"comments are not always sorted correctly (not sure if this is because of a configuration or it's a bug) - on some stories, the first one is the latest (a bit confusing), on other stories the first one is the oldest."
+678,5,6,"However, there is a disconnect with integrating these processes and as a result, either I (or UX) need to copy+paste screenshots into JIRA, or link back to the Invision project (outside of JIRA)."
+693,0,1,Can be confusing for more of its advanced features like setting up tasks for multiple people or for things ahead of time.
+694,0,1,Also moving things from backlog to in progress has changed to a less intuitive way.
+707,5,6,JIRA still lacks some important ways of data visualization.
+708,5,6,"Sometimes it's hard to represent all data points of the lifecycle in the same instance of JIRA, especially when it needs to be done ""yesterday"" or ""abruptly""."
+721,6,7,"It's not very responsive, impossible to use on my phone, but that is not a dealbreaker at all!"
+734,0,1,Sometimes the workflow management for issues becomes cumbersome.
+778,0,1,We need more refined ways for users to see where their projects are in our backlog without having the ability to see everything in the backlog.
+783,0,1,"We needed a tool to manage our backlog and agile boards, and Jira meets those needs, but as we have more teams adopt agile our Jira account and permissions get more and more cumbersome to navigate."
+789,0,1,"It is easy to set up, a bit complicated on the administration but a bit troublesome on the performance side if you really start to create scores of projects on it with large backlogs throughout.; Performance was not the best, especially when the backlog was large and there were lots of projects loaded into our instance."
+790,0,1,We even had to figure out ways to get around having to refresh the backlog page during story elaboration sessions as it was taking so long in some cases.
+791,5,6,Also used it for time reporting and it wasn't that straightforward.
+792,0,1,Entering time shouldn't be as complicated as they make it and changing things you have already entered is not intuitive at all (borderline frustrating in fact).
+806,8,9,I can NEVER find anything I'm searching for.
+808,8,9,"I try to search by tickets that I've originated, but that never yields anything."
+809,8,9,"Or I search by the person who it's been assigned to, but that doesn't work either."
+810,0,1,I wish there more real-time updating because colleagues are always editing my tickets and we're always tripping over each other and losing what we've typed.
+811,8,9,"Some of the navigation is a little clunky like when you have that preview mode to see a list of your tickets and then a column to the right that has more information about the ticket, but I kind of wish that when you clicked the ticket number, it opened in a new tab so you could still reference your list of tickets."
+828,0,1,"I have been working in multiple projects in my organization, sometime I find it difficult to switch between sprints or stories of different project."
+828,8,9,"I have been working in multiple projects in my organization, sometime I find it difficult to switch between sprints or stories of different project."
+829,8,9,Basically I found it difficult to search if I do not have a story id.
+841,0,1,"It feels old, it's slow sometimes, need to be more simpler in some aspects for example the KANBAN Board could be simpler, like Trello."
+854,8,9,Sometimes it is hard to use the search feature to find a case that you are looking for particularly if you have many cases that contain the same key words.
+856,8,9,Additional search features would be nice!
+858,8,9,"Once you perform a search you can sort by date or reporter or status even, but being able to narrow it down in advance would be ideal."
+906,5,6,"Also we used to host JIRA/Confluence on the same server that we had for a few other apps, and the processes for these two software were so heavy that would render the server useless for other software, on a quad-core machine."
+933,7,8,The email notification in JIRA are the WORST!
+936,7,8,I wish there was a better way to manage notifications within my bugs.
+952,0,1,It is possible to jump and setup a new project in such as way that it will be difficult to maintain.
+972,0,1,Sorting sprints and backlogs by users assigned is an obvious miss.
+973,0,1,It is very difficult to manage dependencies.
+974,0,1,"While everything else in this product is verbose in its capabilities, the dependency visualization is absent and you have to view each ticket's details to be able to see them."
+989,8,9,Searching for an existing ticket can be quite difficult at times.
+990,8,9,"Often, using a simple search does not yield the ticket I am looking for and I have to ask someone to give me the exact ticket code instead."
+1036,0,1," Sometimes you find yourself stuck in a weird state in a product - Issues not showing up on the board, Issues not transitioning to the desired status, fields being unavailable, permissions Issues etc."
+1039,7,8, Terrible notification system.
+1041,7,8,JIRA doesn't batch notifications in any way.
+1064,0,1,It would also be nice to tie various project areas together for version control as a lot of the stuff is pushed out in one go.
+1080,0,1,It can be very difficult to find the right category for your ticket.
+1080,8,9,It can be very difficult to find the right category for your ticket.
+1081,0,1,It is also difficult to find the right group/person to send it to.
+1081,8,9,It is also difficult to find the right group/person to send it to.
+1082,0,1,Setting up dashboards is cumbersome and challenging.
+1083,8,9,I have a hard time finding the status of issues if it isn't emailed to me.
+1098,0,1,"On occasion a button placement is clunky, and it is difficult to compare story measurements for sprint-over-sprint comparisons."
+1099,0,1,Cloning options are limited.
+1128,0,1,- Agile board doesn't have an ability to move multiple tickets to the next column at once.; - Agile board scrolls somewhere to the middle of the window if there are a lot of tickets in one column.
+1129,0,1,Drag-n-drop simply doesn't work there for more than one ticket.
+1132,0,1, a bit hard to understand how to use workflow schemas.
+1136,8,9, admin area in general is a bit hard to navigate and customise - it could be simpler.
+1155,0,1,"2. Roles, privileges, screens etc can be rather confusing if you have a good number of projects."
+1176,0,1,If any one is facing problem on solving issue and it might not be completed in time then there is no discussion with scrum master or team members.
+1177,0,1,If any one found the solution for that problem then it would be a solution point for that kind of problem.; So if any one in future having same problem then the solution would be there.
+1189,5,6,"I wish JIRA more tightly integrated with non-Atlassian products, like GitHub or GitLab."
+1190,7,8,"I also wish notifications were more useful or actionable, although they're simple enough."
+1218,0,1,"A bit slow and time consuming in the beginning when you setup base project issues flow, workflow and permissions."
+1232,8,9,"I faced few issues with cache indexing twice, as a result I lost projects and user data after doing reindexing."
+1234,0,1,initially issues creation fails due to 'IllegalStateException'.
+1250,6,7,"Although I think that the mobile version could to improved, I faced some difficulty navigating through the mobile version of JIRA as it differs quite a bit from the web version."
+1284,0,1,"Confluence, for example, feels like you are starting with a blank canvas and its really hard to get started because you are frozen with too many options."
+1301,0,1,Feature toggling is direly needed but it doesn't seem to be the case on their development roadmap.
+1316,5,6,Other complaint is their REST API: when I was looking to integrate JIRA with a chat bot on SLACK.
+1317,5,6,I found their API to be very complicated.
+1332,6,7,I have not yet found a JIRA mobile app that I like.
+1345,8,9,"Sometimes it takes too much time to find things, especially when the person who does that is not IT specialist."
+1394,5,6,Not a good way to creat a report that is of value to project owners.
+1395,5,6,"I would prefer to see a customizable report feature, similiar to what is in HP Quality center."
+1437,6,7,I would love to use JIRA more on my iPhone.
+1464,7,8,I dislike the email notification feature which seems to work sometimes and then sometimes it just stops working.
+1511,0,1,Default project settings have WAY TOO MANY FIELDS.
+1543,0,1,Workflow configuration cannot be easily changed once entities start using the newly implemented workflow.
+1556,0,1,"It would be convenient if projects defaulted to our custom workflow and permissions, but I haven't spent the time to figure out if that is possible."
+1558,0,1,"I'm not positive this is a problem with the software per se, but we've found larger projects with several hundred issues can get difficult to manage with this tool."
+1559,5,6,"Too much data, with an inability to easily see the important actionable information."
+1599,6,7,"Finally, the mobile web experience is unusable."
+1661,0,1,"Eventually we get to a state where some issues remain in email because nobody raised a JIRA, or where some JIRAs get duplicated because its difficult to quickly identify if that issue already has an existing JIRA."
+1673,0,1,It is not the most intuitive when just creating marketing tasks.
+1674,0,1,"For example, the tasks are called ""issues"" and once you create one, you can't delete it unless you are the JIRA admin."
+1675,0,1,"So once an ""issue"" is ""resolved"" (aka completed), it still sits there in the ""reported by me"" screen."
+1696,5,6,I do not recommend self-hosting the software.; Self-hosting the software has proven to be difficult.
+1698,0,1,"It's very easy to set up workflows that just don't make sense, and can hinder the productivity of others."
+1752,5,6,Another thing that was disappointing is server backups.
+1753,5,6,We find ourselves in a situation where it's very time consuming to backup our instance and clone it for upgrade testing.
+1810,0,1,"Configuration for the specific dashboards and views can be a bit cumbersome, but with a JIRA admin it wasn't terrible."
+1822,8,9,If you are unfamiliar with Atlassian you might have a difficult time navigating around the tool.
+1823,0,1,You may experience issues when trying to create stories and assign out the tasks assigned to those stories.
+1870,0,1,"If you have a lot of bugs and enhancements when you are looking at the next sprint of work, sometimes the lists are long enough that it becomes unreasonable."
+1911,0,1,"I am not sure if there is a plugin for this or not, but it would be great if we could set a lifetime for issues and have them reported somewhere."
+1911,5,6,"I am not sure if there is a plugin for this or not, but it would be great if we could set a lifetime for issues and have them reported somewhere."
+1923,8,9,I've never had more difficulty when searching a bug database as I do with JIRA.
+1937,0,1,"Dashboard is useful, and evidently editable but the method for editing it is not very clear."
+1938,0,1,Sometimes internal linking doesn't work correctly for comments or for descriptions.
+1971,0,1,I do wish their were more instances for priority than what is given as options currently.
+2015,7,8,"It could use some better notifications and workflows to help keep everyone one informed of the progress of each case, especially if you are the one who originally logged it."
+2015,0,1,"It could use some better notifications and workflows to help keep everyone one informed of the progress of each case, especially if you are the one who originally logged it."
+2058,0,1,We really really really really need duplicate issue prevention.
+2090,0,1,I wish there was some sort of calendar view or a way to prioritize the products on a list more clearly.
+2105,0,1,"Sometimes, the comments are added successfully but it still gives error stating there was some error while updating your comment but once you refresh it, you can see the comment right there."
+2139,0,1,The agile boards are a bit slow.
+2161,7,8,It is the missing feature to custom the email templates for notifications.; It's also missing the feature to have a default description and steps to reproduce template.
+2199,8,9,I find it hard to find tickets if I don't know the ticket number.
+2199,0,1,I find it hard to find tickets if I don't know the ticket number.
+2200,8,9,Searching is not very easy.
+2264,0,1,Sprint management requires a lot of knowledge.
+2266,7,8,* Random survey prompts feel invasive/unnecessary.
+2312,0,1,The agile functionality for scrum is clunky and the burndown chart is not very accurate.
+2312,5,6,The agile functionality for scrum is clunky and the burndown chart is not very accurate.
+2313,8,9,"Also, not everything is searchable in the UI, specifically around the agile functionality (items added/removed from a sprint) and the database is not intuitive."
+2324,7,8,"In case you change something or update something, emails can be send, but this feature can become a real spam."
+2325,0,1,"Finally if you manage several projects on the same time, the portfolio solution is a bit light to me and it's not so user friendly especially if not all projects are ""scrum"" like but a mix of ""scrum + kanban""."
+2349,8,9,Sometimes you have to click 3-4 different places to find the action you want to do.
+2365,0,1,The handling of tasks and sub-tasks is very poor.
+2409,6,7,It's very sad that JIRA doesn't have a mobile app.
+2410,6,7,"Mobile site also not so great, lot more need to be improved."
+2436,0,1,"Once you open a Service Ticket aka Fault Record you cannot change certain fields - if this has been created correctly, with the exception of the service object (in our case), you still have to close it and create and entirely new FR."
+2447,0,1,time logging is under developed.
+2448,0,1,If you change the status of something to 'done' it does NOT update the remaining hours on a task to 0.
+2450,0,1,I still don't understand how you handle stories that get moved to new sprints.; Somehow--the circumstances I still don't understand--all the incomplete tasks do not move to the new sprint.
+2452,0,1,"Somehow, items sometimes get left behing, messing up your scores for the sprint."
+2478,0,1,It's easy to be in the wrong project so you have to make sure you are looking at the right dashboard when you log in.
+2529,0,1,"I don't like that I cannot see the status of my ticket, I am not sure if that is true for everyone or just how my company set it up."
+2530,7,8,I would like notifications on when it is being worked on (like the dell help desk tickets).
+2580,7,8,I dislike the redundant notifications that are automatically sent when a ticket moves in status.
+2581,7,8,The system should have an option to only trigger an alert when the user needs to take action on the ticket.
+2592,0,1,creating a JIRA task can be extremely time consuming... and we often end up having to track the time spent creating the actual task!
+2593,0,1,it would be simpler if there were just an option for checkboxes for simple tasks and sub-tasks.
+2612,8,9,"A few additional search filters would be great (e.g. determine WHERE in the ticket a keyword should be searched for - description, title, comments, etc.)."
+2628,0,1,Out of the box support for precise specifications in Agile stories (acceptance criteria) is somewhat weak.
+2629,0,1,Traceability of requirements to specifications to implementation is weak - however it has to be acknowledged that it is up to each user community to set it up.
+2676,7,8,"3. There is no way to opt out of notifications for an email.; I know that it can be changed in notifications scheme, but we need a way to opt out for a particular email id."
+2693,0,1,"For someone who isn't a technical PM, I find that the sprints can be confusing and difficult to manage."
+2698,8,9,The navigation is not intuitive.
+2708,0,1,"There's very little in the way of checking for redundancies when checking for a bug, so there can be a lot of bugs in there, all reported in similar ways, that need to be dealt with one by one."
+2758,0,1,Editing flows is hard.
+2760,5,6,Reports are not very useful.; There are no useful examples of how to use sprint reports to gather valuable insights.
+2762,5,6,It would be nice to see more stuff like burn-up charts.
+2763,0,1,Agile Risk management tools and reports would be great!
+2763,5,6,Agile Risk management tools and reports would be great!
+2772,8,9,Filtering is tricky and based off of writing SQL-like statements.
+2773,0,1,High learning curve with creating dashboards and reports.
+2773,5,6,High learning curve with creating dashboards and reports.
+2787,0,1,I don't like that I have to move Jira tickets to each column in order to close a ticket or mark it as done.
+2788,0,1,I don't like that I need an Admin's help to reopen a ticket if I've marked it closed too soon or if I need to move a ticket back into a different board.
+2807,0,1,"Since JIRA is fully based on Scrum, if a story is incomplete at the end of the sprint, it should be rolled over to the next sprint."
+2808,0,1,It does not allow to split stories.
+2828,0,1,There's a few funky things where you can in-line edit some attributes of an issue but can't on others that I don't like.
+2829,0,1,"And, like any project management software it's sometimes possible to lose an issue in the abyss of different statuses and boards."
+2842,6,7,I can't digest the fact that it doesn't have official mobile app.
+2843,6,7,Third party apps are not at all useful.
+2868,0,1,"And so, a growing JIRA instance ends up becoming a performance nightmare of additional plugins for extended functionality."
+2906,8,9,"It's easy to get lost in JIRA, and the larger it is and more users there are, the more likely things are to go wrong."
+2908,0,1,"At a larger company, with too many hands in the pot, it quickly became the graveyard for many forgotten tickets."
+2922,8,9,"I find the filtering set up a bit repetitive, as you have to go through a few before you can get to your project and list of issues."
+2923,0,1,Also when a new item is added it does not appear instantly the page need to be refreshed and it seems a logged issue cannot be moved from one project to another.
+2954,0,1,"Workflows - because theres such complexity, theres a big ramp up time and large learning curve; therefore, teams are not incentivised to change their process."
+2966,0,1,Workflow management can be difficult for new users.
+2967,0,1,Also you cannot estimate tasks by default.
+2980,5,6,I'm not exactly sure if its an issue with the Jira server that cannot respond with the heavy load.
+2992,8,9,"There's way too many options to sort through issues, when I want to find all of my open issues."
+2992,0,1,"There's way too many options to sort through issues, when I want to find all of my open issues."
+2993,8,9,"I'm part of several ""Project"" groups and I find it hard to actually get to all my option issues sometimes (since sorting by just project doesn't work for me)."
+2993,0,1,"I'm part of several ""Project"" groups and I find it hard to actually get to all my option issues sometimes (since sorting by just project doesn't work for me)."
+2994,0,1,I wish the drop-down to sort through projects didn't list 'Recent projects' but just the project teams I'm part of.
+2996,7,8,"When I go back and forth between JIRA and the Atlassian wiki, even if I've read a comment it shows a (duplicate) notification which is annoying."
+2999,8,9,"It still has its issues with ease of use in filtering,."
+3051,0,1,Prioritizing tasks on the monthly view with the drag and drop is a pain.
+3061,8,9,It can be challenging to navigate and slow occasionally.
+3062,0,1,I understand we've got tons of content working in the same account but it would be nice if it didnt take so long to load tickets.
+3063,8,9,Sometimes I just want to find a ticket within a project that I'm ALWAYS searching and it resets to search everything.
+3063,0,1,Sometimes I just want to find a ticket within a project that I'm ALWAYS searching and it resets to search everything.
+3065,0,1,Would like the ability to customize the view of tickets more--What I want to see isn't at the top (above the fold).
+3075,5,6,The data isn't really aligned in a way that someone (an exec for example) could get a quick snapshot of what is going on.
+3100,0,1,I also wish you could assign tasks to more than one person if there's a collaboration between multiple people.
+3101,8,9,This would make it easier to sorting too.
+3102,0,1,The issue collector should be fully customizable as well.
+3103,0,1,I wish you could create custom fields and make certain fields required.
+3114,0,1,Examples include: Project Categories have no immediate purpose except to group the projects while viewing the All Projects view as a user only.
+3115,0,1,Another example is the lack of certain functionalities such as linking events so that notifications or other actions can be tied to built in functionality such as linking to another issue.
+3139,5,6,I dont like the reports and its formatting.
+3156,0,1,"A few more default options for customizable KPI / Dashboards would be nice, but that's easily addressed by addons."
+3164,0,1,The two minor pain points are that cases open in a right bar when using a sprint board (I'd rather they automatically open in new tabs); and I often have issues pasting in unordered lists -- I formats the line spacing wrong almost every time.
+3165,6,7,"I am also not a fan of the mobile version of the site as it has limited functionality compared to the full site, and issues show reduced information."
+3176,0,1,1. The hours remaining on a story is not visible from the board.
+3178,0,1,"2. Even if the story is closed, the subtasks remain open unless its explicitly closed."
+3179,0,1,3. It would be nicer to have a display on total hours and the total remaining hours of tasks in the sprint.
+3180,0,1,4. Should have a feature to custom clone a story.; I might not want every tasks in the story to be cloned when I clone a story.
+3182,0,1,"5. When the subtasks are not hidden, the board looks cluttered."
+3246,8,9,Some features can often be difficult to find.
+3248,0,1,"Setting up your projects and dashboard can occasionally be cumbersome, but once learned will be invaluable."
+3304,8,9,I think searching for particular keyword is bit of complicated and results are not so good.
+3305,5,6,I think Jira Api should be given more preferences since manual work will be reduced.
+3319,6,7, Lack of an official mobile app.
+3386,8,9,Whenever I am customizing JIRA it feels like I am navigating a maze.
+3387,8,9,Because there are so many customizations available it is not always easy to find what I am looking for or how to change it.
+3390,0,1,"In addition, you can only have a single priority scheme across all projects."
+3391,0,1,"There is no way to change priorities per project, which is annoying when IT teams and business teams are both using the same tool (e.g. a priority of Blocker doesn't make sense to a Marketing team)."
+3434,5,6,I'd like to see more integration features for marketing specific users.
+3479,0,1,Time tracks does not make time tracks so easily.
+3515,8,9,"Search is highly complex and not intuitive, and search results are retrieved in no discernible order, though you are able to order them as you like."
+3525,7,8,It would also be useful to have a settings that controls the types of notifications that get sent.
+3541,0,1,"Tasks take inherently longer to put in, don't update easily based on due date, it's challenging to 'snooze' tasks, and inevitably tasks muck up my sprint and product backlogs."
+3566,0,1,Problems with session expirations when writing and posting long comments.
+3604,5,6,"Its LDAP integration isn't nearly as good as Confluence, which is also developed by Atlassian, and that can make importing your existing users and groups a pain."
+3605,0,1,"And for quick, simple tasks, it can generate more overhead than those tasks need."
+3623,5,6,Some of the available charts are not very informative and could be excluded from the product for more clarity.
+3632,5,6,"This may be how we have JIRA set up but I find reporting on time difficult, we have to manually adjust the remaining time on tasks to be able to get the burndown chart working as we want it."
+3688,0,1,Reassign/Reopen features seem a bit redundant.
+3733,8,9,Sometimes I find using the quick filters to be bit confusing but I probably just need more practice.
+3752,0,1,There should be an easier method for creating releases and/or subprojects.
+3753,0,1,"Also, it's hard to subtask each JIRA efficiently, and provide estimates."
+3763,8,9,It can be difficult to navigate in a large company with multiple projects.
+3764,8,9,"While there is a user page for you, it's hard to get to a task board unless you have the specific url for it."
+3788,0,1,"when you have large Jira boards, moving tickets and making changes can becomes slow."
+3789,0,1,"The workaround i have found for this is when you have hit a critical mass of size for a board you should probably be breaking it down into smaller boards, but really it should just be able to go faster."
+3790,6,7,"Also, the ""mobile browser"" version is pretty bad, it basically puts you into read only mode."
+3793,5,6,"Hosting can be a pain when you have to manage your own server, however it gives you the flexibility to do more things."
+3803,0,1,Creating dashboards seems to be hard for me.
+3843,0,1,"When clicking a task from the agile board it opens it up on the right panel, but in a limited view and on a small space (even on a 27"" monitor!)."
+3853,8,9,"It's barely searchable, it's not user friendly on the entry end, and the interface is outdated and ugly."
+3866,5,6,"Following can be improved. 1. Assign a JIRA Issue/Enhancement to multiple people. 2. Track the Status with Timeline (like a graph indicating when a praticular issue is created, assigned, worked upon, resolved, Tested and Implemented in Stage and then Prod, Closed )."
+3902,0,1,"The dashboards could be better, but that's about jt."
+3910,0,1,Easy to get distracted with multiple fields and duplicating information in a JIRA ticket or a bug report.
+3952,8,9,The navigation isn't super intuitive and it's not easy to find your way around.
+3954,7,8,Emails could be much better.
+3967,5,6,Our tools aren't integrated properly with the products we use for project management.
+3980,8,9,Cumbersome options menu that can be difficult to understand and navigate.
+3992,6,7,Not much but the mobile experience of it could be better.
+4008,0,1,"Cant reply on comments,."
+4009,5,6,Lack of integration with MS OFFICE.
+4010,5,6,"import/export to excel, word format required."
+4047,0,1,No dislikes - more like tweak requests - add a little bit more permission schemes around workflows.
+4068,5,6,JIRA prevents the piping of information out of the program.
+4069,0,1,"As a result, if bug STATUS is being tracked separately from a higher-level program update, there has to be multiple spaces updated rather than one action that impacts other spaces."
+4108,0,1,Multiple tasks seem messy.
+4109,0,1,Dragging wizard in Dashboard can be more precise.
+4126,0,1,Sometimes it's hard to track down and short through different issues on Jira.
+4126,8,9,Sometimes it's hard to track down and short through different issues on Jira.
+4127,0,1,"This may be because they are trying to tackle many different use cases at once, but overall it feels a bit discombobulated."
+4153,5,6,Do not have capability to customize the Agile Sprint's set of fields that are displayed in the Reports (Sprint / Burndown Charts).
+4155,5,6,Cannot drill-down on individual level for Hours burnt down chart.
+4201,0,1,A bit difficult to work with scheme and the workflows.
+4210,0,1,At first the entry fields confused me.
+4243,8,9,We are not able to search issues based on a previous status.
+4245,5,6,Not easy for reporting.
+4268,0,1,Will be good if it had an option to upload code review.
+4281,0,1,I'd like to see more unity in the workflow schemes.
+4314,0,1,One thing I have found that is lacking is the ability to associate stories/issues with one or more actual software releases.
+4316,8,9,"Primarily, I'd like to be able to find all issues that have been closed/resolved since our last release."
+4360,0,1,The setup of the workflow was a bit cumbersome.
+4361,8,9,Sometimes the search methods was awkward and not fast if certain words were not worded correctly.
+4382,0,1,The way sub tasks works makes it a bit to do sprint planning if the creator of the ticket didn't set up the ticket correctly and used the sub tasks incorrectly.
+4390,8,9,can be somewhat difficult to find relevant issues.
+4407,7,8,"Unfortunately there were consistent bugs - most importantly emails that would be consumed by Jira with no ticket or notification, causing tickets to go completely unaddressed."
+4418,8,9,there are certain features that are hard to find without having prior training.
+4426,8,9,I don't like that everything in the search functionality is done in unix.
+4446,0,1,It's not very easy to track changes to the workflow in JIRA and changes to the status of JIRA tickets.
+4494,0,1,There is a size limit to the attachments to add to a ticket which restricts the task.
+4537,0,1,I couldn't find out a way by which we can link a testcase with a bug.
+4547,0,1,"Sometimes you have to go into detailed views to make edits, which takes a lot of time."
+4614,7,8,I wish that Hipchat provided read receipts.
+4630,0,1,"Due to how configurable it is, JIRA can have a bit of a learning curve in order to get a complete workflow figured out."
+4638,8,9,Sometimes it is difficult to find tickets vs bugs vs creative requests.
+4639,8,9,I would love to easily identify these just in one screen.
+4674,8,9,Also would like automatic sorting of the backlog based on dates.
+4706,6,7,"The iPhone app seems limited compared to the web version, which is not uncommon for iPhone versions of various software."
+4716,0,1,The test case and requirement not covered.
+4730,0,1,"Prioritization functionality could be better, for instance being able to add a time due in addition to date, or perhaps automatic reprioritization as the due date gets closer."
+4739,7,8,Notifications could be better.
+4740,7,8,"Even if you add someone as a watcher to an issue, they won't always receive email notifications when things are changed."
+4781,0,1,"But if in each process, lake development, review, testing, we can assign to multiple people, that will be good."
+4825,8,9,Sometimes it can be a little difficult to navigate.
+4834,0,1,It would be nice if ticket creation defaulted to a more simple look and feel.
+4847,7,8,with some of the custom fields and values cannot get them to be included in the emails notifications unless you edit jira code.
+4905,7,8,Emails are overwhelming.
+4922,8,9,1. Search feature is not very effective.
+4931,7,8,too many emails - it sends emails every time and I'm wondering if people read them.
+4938,5,6,I don'y see any option to dislike it.This product is having soem report issues.
+4947,0,1,the way to close a user story has many steps.
+4971,6,7,When I'm trying to view a Jira ticket on mobile it's become a real headache.
+4980,6,7,license fees can be reduced and it can be made avaliable in mobile and tab and other devices to be used so that more people can access across devices.
+4991,5,6,So I need to be able to adapt the systems to my situation and other tools.
+5008,8,9,Sometimes I feel like I'm wandering around in a circle before I get to the screen I'm looking for.
+5048,6,7,It doesn't provide mobile app.
+5049,5,6,"You can use smart commits, but can't create custom branches in github."
+5059,5,6,I dislike the inability to integrate with other source control solutions.
+5070,0,1,Don't default comments to public.
+5078,0,1,Sometimes required fields are not relevant and hard to determine if it is really needed or not.
+5095,6,7,should have mobile app too as well as it should have little better configuration options.
+5106,0,1,Some of the dashboards are not as perfect as they could be.
+5107,0,1,Also some of the agile features are not as mature as they could be.
+5121,7,8,"Many times collaborators don't get the emails that notify an action on their part is required, and that leads to confusion and delays."
+5135,8,9,I feel like it could be a little easier to share filters with others (there have to be specific permissions and I find that it becomes complicated at times).
+5197,5,6,I think it can really do better in terms of reporting etc.
+5205,0,1,Need to improve the interface at times for kan ban .. sprint interfaces tracking and also looking at time estimates overall to reflect those takss that team members have added.
+5261,5,6,"The site is a little bit slow, and hard to integrate some plugins."
+5279,8,9,"It is easy to get lost in the software, but always relatively easy to get back to the home screen."
+5303,0,1,"Trackability can still be a bit confusing but overall, I can locate tickets and track them while they're open."
+5314,0,1,Unable to add or edit my comment after the ticket was closed.
+5366,0,1,With a lot of people with their hands in a single workflow it can get tedious at times.
+5373,0,1,One main problem I came across is a single issue or a ticket cannot be shared by many.
+5374,0,1,For this purpose having multiple copies of the same ticket seems cumbersome sometimes.
+5398,0,1,Filling in the fields is confusing when creating a new JIRA ticket with this tool.
+5428,5,6,it seems difficult to visually show timelines.
+5436,0,1,"When you create a task, there is no option to add directly in the current backlog/release."
+5447,6,7,Maybe the mobile version which is not on point for me.
+5482,0,1,If I make an edit to ticket content and leave the box everyone gets and email even if I need to make more changes.
+5482,7,8,If I make an edit to ticket content and leave the box everyone gets and email even if I need to make more changes.
+5501,5,6,I find the ability to leverage the API or schema really difficult to import into other reporting softwares.
+5512,0,1,Tickets can be written and then forgotten about.
+5520,0,1, Very slow attachement.
+5538,5,6,"JIRA is not as good for document sharing, but that's not what it's supposed to do."
+5539,0,1,"Also, the documentation on Epics and Stories is sparse."
+5546,8,9,It's a little hard to navigate when first using.
+5554,5,6,"We use hipchat,JIRA and Source Tree but there is no good way to integrate salesforce."
+5569,0,1,Workflows are not the easy to configure and requires some experience in configuring it.
+5579,0,1,Not happy with the way subtasks belong to parent tasks are organized - we create subtasks as jira issues and I find it annoying that we cannot take an existing jira ticket and make it a subtask for another jira ticket.
+5580,8,9,"It can be a little confusing finding the dashboard you want to view - there are links for each ticket to see the issues for a release or project, but sometimes clicking on a link takes you somewhere other than you expected."
+5602,0,1,I'd like a more attractive user interface and to see the date on which new assets are added.
+5602,5,6,I'd like a more attractive user interface and to see the date on which new assets are added.
+5603,0,1,Sometimes multiple assets have similar titles and that can become confusing.
+5640,7,8,Delayed emails on status updates to ticket.
+5646,0,1,"Some of the fields in JIRA are redundant, and I often find myself putting in my name or date of desired completion multiple times."
+5654,0,1,The dashboard is not as informative as its supposed to be.. There are certain work items that I created and have updates on it such as comments and status; the dashboard does not displays those.
+5661,8,9,"Sometimes it's impossible to find what you're looking for, also too many emails."
+5680,0,1,Jira makes iit very difficult to easily organize and prioritize tickets.
+5717,7,8,I wish there's an automatic reminder of all open issues weekly.
+5769,8,9,It is sometimes difficult to find the features that I am looking for.
+5776,0,1,Need a better way to manage current release for query/dashboard.
+5828,5,6,the UI is ugly and you cant export all issues at once.
+5829,5,6,Also they have no data loader tool so importing user stories from excel sheets is a headache and not easy.; they should make it more easy like salesforce's data loader import tool.
+5862,7,8,stop sending mutliple emails for same updates.
+5869,0,1,I don't like too complex workflows and permissions management.
+5877,8,9,there should be an easy way to get to what i want.
+5908,5,6,More Analytical reports and also defects tracking.
+5908,0,1,More Analytical reports and also defects tracking.
+5918,0,1,It's hard to change workflows.
+5934,5,6,I would like Jira more if it worked with Git Repos or CI tools outside of Atlassian's universe.
+5951,7,8,As great as the notifications are I wish that there were better ways to notify users of changes made.
+5962,5,6,Inability to forecast; lack of flexibility and poor user experience thanks to layout/design.
+5987,8,9,"missing requirement tree structure, it's hard to find stuff."
+5994,8,9,"Search can be clunky, and reporting capabilities seem limited."
+5994,5,6,"Search can be clunky, and reporting capabilities seem limited."
+6013,8,9,"Search is difficult, navigating large projects and teams can be unwieldy."
+6014,6,7,Mobile app access is lacking (eg cannot change status of ticket on mobile web).
+6021,0,1,I wish I could review all past issues assigned and/or have a save location to repeat issues.
+6034,8,9,"Once you have a few thousand issues in the system, it becomes SO difficult to find a specific issue that you are looking for, especially if it is not assigned to you."
+6035,8,9,"I'm not sure why, since the search tools are pretty robust, but I think this is caused by the fact that if you have dozens of users submitting buys/enhancements, they often use slightly different terms to describe projects, making keyword searches less helpful."
+6037,0,1,Linking issues together also uses an unwieldy process.
+6045,5,6,To pull a report to show all requirements with specific tags is difficult for someone who represents the business side of the house.
+6053,0,1,lack of formatting option in the comments.
+6062,0,1,Work flow (i.e. how an issue transitions between states) can sometimes be unclear if you have complex workflows.
+6095,8,9,Searching for issues is a pain especially when searching across projects.
+6106,0,1,"I find that the UI is not intuitive sometimes (for example, the dashboards), and it can feel needlessly complicated to do something very, very simple."
+6144,8,9,Difficult to search for some of the bugs using text.
+6153,5,6,It can be complicated to use and sharing the data and information with other team members can be tricky.
+6182,5,6, Built-in reporting capabilities or dashboard gadgets are limited.
+6209,8,9,sometimes it can be difficult tracking down previously filed tickets but that's mostly on me making sure I record the ticket number.
+6240,0,1,Not support in creating Test cases and attach test results.; Not support rich test in description.
+6264,0,1,"Not as well suited for Help Desk/ticketing, unless something has changed in the last few years."
+6296,7,8,"Hard to find how to unsubscribe from notifications as a single user, member of a group."
+6297,8,9,Search does not always work efficiently.
+6306,8,9,Sometimes things take multiple clicks to get where you want.
+6314,0,1,backlogs are not captured on the fly we are need to use related tables for capturing project backlogs.
+6332,0,1,Not the easiest to track projects at a higher level than stories.
+6339,7,8,"Sends a lot of email notifications (can probably be configured, I haven't really dug into it yet)."
+6346,0,1,Creating workflows is overly abstracted and exposed to the user to figure out.
+6353,0,1,Having to drag tasks from sprint to sprint can be tedious.
+6361,7,8,emails for ever action floods my email inbox.
+6375,0,1,I don't like how requirements written in confluence are easily turned into tickets.
+6419,7,8,"Bad UI for notifications, spamming emails, hard to keep a track of comments on this bug/post."
+6419,0,1,"Bad UI for notifications, spamming emails, hard to keep a track of comments on this bug/post."
+6435,0,1,jumping between backlog and current sprint gets confusing with small side menu icons.
+6443,0,1,Clone option should be more flexible to use.
+6480,7,8,To many notifications and the success of Jira is based on the processes that your internal teams have.
+6488,5,6,"Salesforce integration is not built out very well, making it difficult to use."
+6495,0,1,would help if had portfolio management built in without a plugin.
+6503,8,9,"Difficult for non-product and non-dev stakeholders to find items, grasp."
+6510,5,6,"Getting data out is challenging (possible, but complicated), plug ins are a plus and minus."
+6535,0,1,Permissions module needs to be improved.; Schema module needs to be improved.
+6552,5,6,I don't like the fact that it is sometimes hard to get reports directly in JIRA.
+6570,0,1,In my experience it is difficult to tag items and track them.
+6578,0,1,Wish sub-tasks could be assigned to a base project nbr instead of having to be another number.
+6579,0,1,Also would like ability to back date projects.
+6586,7,8,Notification format on the JIRA updates to be improved for easy understanding.
+6665,5,6,reports and some old data enquiry and history not very straight forward.
+6672,0,1,I would like to see a story point voting capability built in to the product.
+6706,7,8,emails notifications not very custom.
+6715,5,6,Integration with Confluence could use a little work but overall I can't complain.
+6749,7,8,Needs better filtering on email too many email alerts.
+6771,5,6,"E-mail integration, which in some occasions fail to work."
+6771,7,8,"E-mail integration, which in some occasions fail to work."
+6789,0,1,Not able to view past sprint stories in single view.Release tracking and bug logging.
+6835,0,1,"I would like to have more levels in ticket breakdown, Epic -> Story -> tasks is limiting sometimes."
+6848,7,8,You can drown in emails if you don't set your prefs.
+6855,5,6,reporting is very bad and very costly addons which prevents u using jira at fullest.
+6880,0,1,It is very difficult to project manage and forecast tasks.
+6895,5,6,It's not tightly integrated with other tools that we use in the company.
+6930,5,6,its slow at times as its integreated with code dev.
+6937,0,1,Sometimes I am unable to edit the tickets - depending on their type.
+6961,8,9,tabs are confusing search functionality is confusing.
+6971,6,7,I wish their mobile app would let you send photos and notes to tasks.
+6978,5,6,It doesn't provide a good process for extracting data.
+6986,0,1,Some of the reports and dashboards need enhancements.
+6986,5,6,Some of the reports and dashboards need enhancements.
+6993,0,1,"Not seeing tasks and tickets while switching to the next sprint, all tasks disappear from my board."
+7015,8,9,Not always easy to find old defects for verification.
+7022,0,1,bug tracking and cross projects issue tracking are weak.
+7031,7,8,How hard it is to manage notifications.
+7047,0,1,Can't create subtask from subtasks.
+7048,0,1,The duplicate link is not that intuitive.
+7095,0,1,"If you want to set roles, create new projects, there's a lot of flexibility but man you have to be an expert to get it to do what you need."
+7111,6,7,"user interface can be made more modern, mobile friendly."
+7124,5,6,"no simultaneous editing, export feature doesn't work that well."
+7142,8,9,"Some times,it is hard to find where to do certain tasks like adding estimates to stories."
+7142,0,1,"Some times,it is hard to find where to do certain tasks like adding estimates to stories."
+7163,5,6,Attachments of files to bug reports was not so good for visialization.
+7171,5,6,"It is not well integrated with a knowledge management system, and Confluene requires too many touch points to manage the knowledge produce during sprints."
+7198,0,1,Poor mechanisms to manage a portfolio of projects.
+7248,0,1,"For first time users, Trello is not very easy to get used to and for you to have the ""perfect board"", it needs some time to customize."
+7249,0,1,"Deadlines of cards isn't what you expect, if you compare to JIRA."
+7258,0,1,"I cannot stand that you're unable to actually ""close out"" tickets."
+7259,0,1,All you can do is archive them but never truly mark them as complete.
+7272,0,1,Inability to put due dates and member tags on items in checklists.
+7274,5,6,Would like ability to show due dates on Google calendar.
+7275,5,6,"Would like an overview page, showing stats for all my Boards."
+7305,0,1,I wish it were a bit easier to categorize to-do's and that the default card format was easier to change.
+7336,5,6,"This tool has really few drawbacks but if I had to mention one, it would be the lack of official Slack integration, which is a tool that these kind of teams use intensively too."
+7410,0,1,I have a repeating card that I can't seem to delete permanently!
+7426,0,1,"Sometimes when the project gets too big or takes a longer time , the cards keep on piling which makes the management of them a bit difficult."
+7495,5,6,"Nothing much to dislike, but a slack integration would be helpful."
+7496,7,8,Any new trello card created would make a push to slack to inform about the changes would help.
+7527,5,6,Due dates could be clearer and more useful at a macro level.
+7558,8,9, it lacks something on the search/filtering side.
+7583,7,8,"I really do miss being able to have better use of due dates - I'd love to get reminders on tasks, or be able to assign things to set times."
+7601,7,8,The headache comes when e-mail alerts are sent to everyone before I've had a chance to make sure it's ok to send.
+7602,0,1,I'd love a way to approve all card changes so as to prevent problems like this.
+7619,8,9,I wish it was easier to access/search through archives and boards.
+7621,8,9,"I'd love to see a faster, more comprehensive way to sort through these without having to scroll through the lists."
+7624,7,8,It is also easy to miss notifications on the platform.
+7659,7,8,"Notifications can be a lot better, for example:."
+7660,7,8,"1. Due dates should send a notification at the time of the due date, not only 24 hrs ahead as it does now."
+7661,7,8,"2. It should send a notification across your device, desktop, and in-app, whenever someone comments on the tasks you're subscribing."
+7673,0,1,Sometimes it's not that easy to use when it comes to numerous attachments within 1 ticket.
+7687,0,1,"It's also very hard to use Trello in complex projects, with a lot of related tasks."
+7707,5,6,I'd love to be able to see a calendar with my tasks organized by due date.
+7838,0,1,"I can't delete a card or task, the option I have is to move it to archived."
+7852,5,6,* Not very good at integrating with other dev workflow systems.; * Not very good at integrating with version control systems.
+7854,0,1,* Does not support sub-issues in any way.
+7855,5,6,* No burndown support.
+7856,0,1,* Does not track sprints or epics.; Distinguishing between a Sprint and an Epic is difficult.
+7859,0,1,* Does not reflect build status.
+7860,0,1,* Cards do not follow PRs.
+7863,5,6,"* Due to poor integrations, Trello gets out of date easily, and requires a PM to really stay on top of cards and of people."
+7863,0,1,"* Due to poor integrations, Trello gets out of date easily, and requires a PM to really stay on top of cards and of people."
+7877,0,1,"Not able to put the tasks into folders and projects, which makes me use the checklists, and the items do not appear separately in the list unfortunately."
+7898,0,1,"For example due dates, I give a card a due date and when it is marked as completed the due date is still there and as time passes Trello will tell you it is due because it does not recognize that it has been put under the completed list."
+7902,0,1,"Comments could also use some improvements, it would be nice to have thread comments so if I respond to a comment it is linked to that one not just as a new comment."
+7934,5,6,"I would like to see more interconnectivity between Trello and other tools, like Github."
+7935,5,6,"For example, if a pull request is merged in Github, it would be nice if that was updated on the Trello board automatically."
+7936,5,6,"There are also no reporting tools, but since we are a small startup, that's not the type of functionality we are looking for."
+7985,0,1,"Some functions are not that intuitive: for example, if you want to delete a card, you can't, you have to ""archive it""."
+8002,7,8,the due date functionality is lacking a little when it comes to reminding users of due dates.
+8003,7,8,"Also, the email notifications can be hard to sort through, especially if you have multiple boards with multiple users and cards."
+8018,6,7,The only thing I dislike about it is that I have trouble sometimes in the Android app moving cards from list to list.
+8033,0,1,The UX was a bit confusing at first to figure out how to do things so I felt the onboarding could have been better.
+8034,0,1,"I also feel like as the team grows, this tool becomes less effective when there are so many lists and cards piling on."
+8092,0,1,- Can't add due dates to items in a checklist.
+8093,0,1," Sub-cards (instead of just checklists) for subtasks would be helpful, but could overcomplicate things."
+8094,0,1,- Can't rename file attachments.
+8120,0,1,Checklists are a little buried in each card - would like to see some top level checklists so you don't have to drill into a specific card.
+8154,0,1,I think Trello can benefit from adding time tracking.
+8155,0,1,"I don't really like the way uploaded items show in the cards, but I do not know how it could be handled better."
+8158,0,1,Add the ability to assign a default member(s) on the cards on a certain board.
+8172,0,1,I think Trello could add some features to help users keep their project dashboards clean.
+8190,0,1,I'd like to have a better way to set reoccurring lists.
+8192,5,6,Calendar doesn't integrate with all calendars.
+8221,6,7,Don't have a complete offline client and sometimes on mobile the drag and drop doesn't work well on the move (probably due to data connection issue).
+8231,5,6,"Make a printable report where I can print an entire board, where you have the option to print every card with its details too."
+8256,0,1,Lack of 'Sprint' control is a real problem.
+8259,0,1,"Also, there is no simple way to keep a change log; or pack a bunch of tickets into a 'version tag', which may help Software Houses to keep track of their features over the versions."
+8279,0,1,"The second, more concerning thing about Trello is that there is no way to truly work in sprints."
+8280,0,1,"Sure, you can create sprint lists on a board (or even a board per sprint), but it quickly becomes unmanageable if you work in short sprint cycles and/or need to see all completed tasks in an organized way."
+8320,0,1,"It's a bit too simple and lacks various power user capabilities: labeling is nice but too simple and having labels ""move"" between boards makes them prone to ""labels overload""."
+8321,0,1,"Also would have been nice if there were a way to look at tasks differently, not just by lists but by status or some other dimension added to them.. the vertical lists work great most of the time, but other times there's a need to see stuff in a bit more of a ""bird's eye"" overview and Trello is pretty missing this out."
+8334,0,1,"Cards are a little bit small, when we used another digital board I could immediately see the content of the card, while with Trello you have to open the card in order to see the content."
+8356,0,1,It's hard to have a clear dashboard picture of what you need to get done on bigger projects that will have a lot of smaller tasks associated with it.
+8357,0,1,"You can nest a checklist under a card, but you can't add due dates to items on the checklist."
+8358,5,6,Also also wish they had a browser extension like Asana so I could drop new cards onto a list to get them out of my head while I'm working on something else.
+8384,5,6,"Personally, I would like to see a publishing system."
+8385,5,6,"Right now, it can be challenging to get a list of the tasks that can be built into the cards and access them anywhere but Trello."
+8410,0,1,Removing stickers is a huge pain.
+8431,0,1,If the voting feature allowed you to sort the list be how many votes a card has received for instance that would be a huge boon.
+8431,8,9,If the voting feature allowed you to sort the list be how many votes a card has received for instance that would be a huge boon.
+8456,0,1,"Trello needs the ability to track due dates on multiple stages of the task or 'card'; the current implementation has one 'due date' field that must either be reused over and over in multi-step tasks or set up as a fixed due date for the whole of the project, which can lead to lack of accountability until the due date is looming."
+8468,0,1,"I haven't found out ways to delete the board that I created by mistake, but I guess I do have the option to modify it and make it another useful board."
+8482,5,6,Would have liked to see more integration with apps like one drive and Google drive.
+8497,8,9,Sometimes at first it can be difficult to navigate when linking other people's boards.
+8538,0,1,I would like there to be more of a formal way for completing projects.
+8540,0,1,Ticking projects complete and then having them auto move somewhere would be more helpful.
+8552,0,1,Trello can bog down and get slow if there are too many cards on a single board.
+8553,0,1,The need to archive old cards doesn't really effect the way I use the software but I could see the being an issue for some.
+8554,8,9,"Also, there really needs to be a better search function."
+8568,0,1,"I wish there was a color coded option for cards and lists, not just boards."
+8602,0,1,"Cards/tasks are limited to only one Board/Project.; Difficult to work with multiple cards or tasks in the UI, like for moving, copy/paste and such."
+8603,5,6,Limited email integration.
+8643,0,1,Sometimes I wish we could size the cards differently in each column as opposed to the default.
+8654,0,1,"If the bulk of your tasks are on one board but then you have one or two task cards on a different board, it can be hard to remember to switch between the two boards in order to get a complete view of your workload."
+8657,8,9,The search function is sometimes a little clunky and hard to use to find what you need.
+8670,0,1,"I think the process of removing oneself, closing a board etc is slightly confusing especially if you created the team and the boards."
+8684,0,1,I wish I could hide certain 'Activity'.
+8685,0,1,More specifically I wish I could see just comments or that comments were totally separate from the Activity feed.
+8686,0,1,"Maybe a toggle to show Activity inline with comments, or to switch them off?"
+8687,0,1,I wish Trello had more features aimed towards daily to-do lists.
+8700,0,1,"If there is only thing I dont like about Trello is, I can't have a global calendar that shows deadlines or tasks from all teams and all boards."
+8718,5,6,"There are some key features that would be nice to have. Full gmail integration for multiple users and the ability to set more than 1 due date, more milestones than due dates."
+8718,0,1,"There are some key features that would be nice to have. Full gmail integration for multiple users and the ability to set more than 1 due date, more milestones than due dates."
+8733,6,7,"Sometimes the mobile app have some bugs and dont work properly, btw they are minor things so really doesn't dislike anything of Trello."
+8748,0,1,"It's not really a dislike so much as probably just my own user error, but figuring out how to schedule stuff on the individual cards (reminders, things like that) wasn't like super self explanatory."
+8749,0,1,"Also, the cards don't rearrange themselves automatically in chronological order if you add a due date to them."
+8775,0,1,I'd like to be able to assign tasks and milestones to individuals and teams.
+8776,7,8,Being able to send a user a once-a-week email about what they will need to accomplish that week would be useful.
+8791,0,1,"I also wish lists could be deleted, not just archived."
+8804,0,1,"When creating separate boards, we're having a difficult time pulling a master calendar of dates across boards."
+8805,5,6,"We found the Sunrise tool that mirrors the look and feel of Google Calendars, but it doesn't pull in any of the color tags or coding for the cards of each board."
+8806,5,6,"We're managing, but it would be nice to have a comprehensive, color-coded calendar feature."
+8849,7,8,It would be nice to have email notifications of due dates.
+8862,5,6,"It has no desktop application, it would be integrate a reporting system or project tracking."
+8863,5,6,Also excellent would integrate more calendar options.
+8886,0,1,"I don't love the layout of the boards and I think while its easy to break down a project into smaller tasks, it suffers when there are a lot of them."
+8905,0,1,"Was hoping for greater visibility across projects, but that's not going to happen with Trello."
+8914,5,6,"It doesn't have auto generated graphs, metrics and reports."
+8915,8,9,"It lacks filtering or customizations of what you see, when you have a lot of cards on your board you have to scroll a lot to see the cards."
+8929,5,6,I wish Trello would have more analytical features so I could report and analyze my work.
+8949,0,1,"There's the process of having to manually update a card, as well, though with a bit of time, that can also be automated."
+8950,0,1,It's also hard to really have a good technical spec for a programming project on a Trello card - you'll probably just end up linking to a Google Doc or similar.
+9001,8,9,"Also - if you need to log ""bugs"" regarding current work the ability to search may not be as straight forward."
+9067,0,1,It would be nice to have some better way to link other things into the description from the simple creation interface or to add a label as I'm adding a task.
+9068,7,8,Occasionally I'll get messages that the board I'm on can't be synced.
+9084,7,8,"Would be nice to have email notifications for items coming due, not just internal notifications."
+9085,0,1,"There is no combined list of tasks for a user, but then it's not really a task manager."
+9134,7,8,I have not easily identified a way to get notifications when any team member does any change on a task.
+9176,0,1,There is no way to time capture projects through the application so we have to rely on team members to keep tabs on their hours for the projects they are working on.
+9187,5,6,Bottom line was it lacked the adequate reporting tools/metrics we were looking for and needed to dive deeper into those features of a project management app.
+9201,0,1,"What I did not like about Trello was that if there were tasks that were made and was a duplicate, there were at times ways to un-differentiate the tasks."
+9215,0,1,"While I like that I can set an unlimited number of boards for different projects going on, the ""To-Do List"", ""In Progress"", and ""Done"" folders that you cannot edit the names of limits its use."
+9216,0,1,"Also, it gets confusing when you add a new list and drag & drop a task from one of the above three lists to another, it automatically changes the order of the lists based on an unknown algorithm."
+9217,0,1,"While it's very convenient to add a new task on the list, there are multiple barriers to editing it, or especially deleting it."
+9229,0,1,I think that sometimes the threads can get a little messy and messages can get lost.
+9230,8,9,"We primarily use it to share creative content, and sometimes it's difficult to find the right file or most recent post that we are looking for."
+9288,0,1,"I would like to be able to switch to a list view of the board.; Sometimes boards can get long, and a list view would be helpful."
+9302,0,1,"Once you've created a large amount of Boards and Lists, it might get a bit hard to keep an overview of all the things going on, especially when using it as a team."
+9320,0,1,"I don't like that you can't truly ""reply"" to others' comments on boards, rather your comment goes into a feed just like a general comment."
+9332,0,1,I do wish there was the ability to delete a board that you are no longer using or don't want.
+9378,0,1,The only issues that I have with Trello was it was not obvious how to edit to do items and i am still not sure how to delete them.
+9393,0,1,The ownership of the item is not very clear.
+9394,0,1,"Though you can tag a ""member"" with a block, but that doesn't indicate the responsibility of that task."
+9395,8,9,Often a to-do is envolved with a lot of people.. making it hard to find the main contact if there is an issue.
+9410,8,9,"While basic information is easy to find, too many clicks are required to find and input additional information."
+9412,0,1,"Even though it's really easy to add a card that only has a title, adding additional information to that card (like labels, adding contributors, and a description) is clunky and doesn't match the simplicity of other aspects of the tool."
+9423,0,1,"Perhaps the linear aspect is a little bit limiting when it comes to tracking a process that has multiple paths in action at the same time, but the categories come in helpful in that aspect."
+9434,0,1,I would like to be able to add cards to cards.
+9459,0,1,I wish they had a better way to see all tasks assigned to you across all cards in one place.
+9473,0,1,It should just be simpler to get a card set up.
+9487,5,6,Lack of reporting functionality.
+9488,5,6,Trello desperately needs a simple reporting solution to enable reports such as burn-down/velocity reports.
+9489,5,6,It's possible to export data via JSON or CSV however this requires a 3rd party reporting solution.
+9490,5,6,Exports are current-state snapshots and don't provide historical information such as date and time a card is moved from one list to another.
+9542,0,1,"It gets unwieldy for large amounts of cards, and the forced stack-rank is inappropriate in some situations."
+9543,0,1,There's no way to communicate if the card order is important or not.
+9560,0,1,Not able to see card list of all project in single window.
+9596,0,1,Occasionally it can be a little opaque as how to best share or make boards visible to others on my team.
+9621,0,1,"With so many tasks, it can be difficult to use."
+9635,0,1,My biggest annoyance is that you cannot create new paragraphs within tickets you create (i.e. holding down Shift+Enter or something to jump to the next line).
+9658,0,1,I would like to be able to expand a card without having a pop-up.
+9659,0,1,"It would make it easier to just scan my projects - I could keep the most pressing cards open to see their checklist, instead of having to click in."
+9675,0,1,"-No analytics (we assign time estimates to completing specific ""cards"", and I don't believe there's a way to add all cards for an individual)."
+9704,0,1,It is easy for a Trello board to become cluttered and disorganized.
+9718,7,8,I dislike that sometimes Trello email notifications don't come thru if someone tags me in a post.
+9719,7,8,Causes issues with deadlines when people don't get the notification email; then they don't know about something being up for approval which causes a hold up in our process.
+9755,8,9,There's such a long swipe horizontally to get to the information you may need.
+9756,0,1,I also don't like how uploaded images that you add to cards become the card's featured image.
+9757,0,1,"Instead I would like to choose a featured image, or maybe not have it appear at all."
+9759,0,1,I'd prefer to have an icon on that card letting me know there's images instead.
+9806,0,1,There's also a limit to how much you can upload to a card.
+9818,0,1,"There's no way to ""check off"" completed tasks."
+9836,0,1,It would be so much more convenient if the comments would just hang down from the card.; You can see the number of comments you've made on a card but it would still be SO much more convenient if you could see them without having to open up the card.
+9875,6,7,"The mobile app is a bit slow and clunky, but still useful."
+9926,0,1,It's nice to assign individual tasks to certain people on a card but overall it gets tough to manage when it's used for a content calendar.
+10007,0,1,I wish that Trello had better functionality around uploading/attaching files to cards.
+10019,0,1,It's sometimes hard to determine how important projects are within the setting - the hierarchy is difficult to understand.
+10020,5,6,i also hate how you can't toggle through more than one Google Docs/Drive sign-in.
+10022,0,1,Also why is copy pasting so difficult within the boxes?
+10038,5,6,"Also the integration with Slack can be a bit annoying at times, especially during planning time."
+10055,0,1,"Cards/tasks are limited to only one Board/Project.; Difficult to work with multiple cards or tasks in the UI, like for moving, copy/paste and such."
+10069,0,1,I do wish there was a way to see completed items.
+10070,0,1,"You can use the archive function, but I cant really go back and view them again."
+10071,0,1,I also wish there was maybe some more options on how to set up boards.
+10100,8,9,A lack of filtering by assigned users or tasks can be a pain.
+10101,8,9,I understand the sprint/scrum nature of the design but it'd be nice to be able to filter out irrelevant tasks until I'm ready to either be assigned to them or not at all.
+10102,0,1,The tool isn't very good at delegating small tasks like edits and revisions.
+10103,0,1,File uploading is easy but the lack of version history or archiving means I'm having to replace files a lot then ping other users to let them know it's actually a new file.
+10119,7,8,"I've found that the software doesn't always provide notifications of updates on boards/tasks, which is unhelpful."
+10146,6,7,"On Trello's mobile app, I am unable to download attached photos directly from the site or customize which boards I receive notifications from."
+10176,0,1,Trello immediately gets out of hand if one is not careful enough in removing the previously done tasks.
+10191,0,1,Cards open only on popups.
+10192,0,1,Links are not easy to click on card title.
+10205,5,6,I wish the integration options were a little more robust.
+10206,5,6,"We use HubSpot, and although it can integrate with tools like slack, I wish it integrated a little better with bigger marketing tools."
+10219,0,1,"Archiving cards accidentally: When I accidentally archive a card, it takes more than a couple clicks to get it back again."
+10229,0,1,The only thing I really dislike about Trello is the lack of calendar functionality and inability to link tasks from lists to dates and made timelines.
+10246,0,1,"It would be nice to view the calendar and see completed dates for cards.; It's easy to set a due date for a card, but there's no way have a ""completed date."""
+10246,5,6,"It would be nice to view the calendar and see completed dates for cards.; It's easy to set a due date for a card, but there's no way have a ""completed date."""
+10269,5,6,"Would be nice to have more cross-integration with programs like Outlook, Gmail, or Evernote but i'm getting a lot out of it as-is."
+10294,0,1,Can sometimes look disorganized and can create more confusion due to all the different cards adding up regarding tasks.
+10331,0,1,"I would like to have dashboards like ""tabs"" in browsers so that I can move/copy cards faster.Now I just edit and copy/move to whichever board I want.Otherwise no, I don't have anything to dislike that's why I have 18 boards!"
+10364,7,8,Sometimes I don't receive all of my notifications/there are occasional bugs with loading notifications.
+10374,0,1,"It would be nice if the calendar showed or easily switched between boards, so I can compare the due dates on projects."
+10389,0,1,There is no calendar view to track my tasks based on due date.
+10405,5,6,I dislike that's not easy to report out the status of individual projects or show progress.
+10418,8,9,Once you project gets more than 100 cards it becomes harder to navigate.
+10419,0,1,Trello projects are not integrated between each order: you cannot see cards from multiple projects in one agile board.
+10432,6,7,"Sometimes it's a little bit difficult moving cards around on the mobile apps (not surprising really, considering the small screens)."
+10445,0,1,"Entering long descriptions is sometimes cumbersome, and it's not immediately clear that there's important text behind the card."
+10447,8,9,"Also, navigating between boards is not quite intuitive enough in the Web version."
+10471,5,6,Would have been nice to have some sort of slack integration.
+10501,0,1,I would like the option to create a more detailed checklist card.
+10524,8,9,"It is easy for action items to get ""lost"" inside Trello."
+10540,5,6,Trello doesn't have much integration capability which makes things pretty difficult.
+10541,7,8,The notification system is kind of annoying and doesn't work all too well either.
+10553,0,1,The fact that there is no ability to create a template board which you can then call up quickly (as a blank) and start adding cards immediately.
+10555,5,6,"Also, the sharing of boards between people can become a little complicated."
+10567,5,6,"Trello is great for tracking lists, however it is not easy to see the big picture view around what you are working on."
+10568,0,1,Trello also lacks more advanced features around task tracking such as time estimates.
+10569,0,1,"You can tag cards, however when you look at the general view, the tags only show up as colors (you can't read what the tag says)."
+10581,0,1,"For example, including the ability to hit enter and format bodies of text for visual clarity as well as the ability to delete cards instead of having to archive them would be great."
+10594,5,6,I think that it could have some better calendar integrations.
+10608,0,1,"I dislike that there isn't a conversation feature that would allow you to add a reply to a top level comment, so members could easily go back and forth with a conversation without it getting lost in other comments being added to the card."
+10620,0,1,I do not like that you cannot format spacing on some portions of the card.
+10664,0,1,"I would like the ability to personalize boards with images, etc, more than already available in the free site."
+10675,7,8,"The most annoying thing about it is that the due date reminders are not configurable, so you can only get then 24 hours before."
+10683,0,1,I wish we could have the checklist available on each list in addition to the card.
+10691,7,8,"Getting alerts from cards that are finished before the ""deadline"" of the project when the deadline is near."
+10759,8,9,It is hard to find my to do items and the calendar function was not working for me.
+10759,0,1,It is hard to find my to do items and the calendar function was not working for me.
+10760,0,1,I find the conversations difficult to follow.
+10769,0,1,Sometimes it was hard to tell if my collaborators updated a tasks.
+10781,0,1,"There is no way to track time, keep a lot of project details, etc."
+10791,0,1,"Right now, there's no way to add a pull request to a card like Jira or Clubhouse."
+10844,0,1,I dislike how it's kind of difficult to assign a specific task to someone without just making a column for that person and moving the card to that column.
+10885,7,8,Notification preferences and task assignments could use some work.
+10885,0,1,Notification preferences and task assignments could use some work.
+10886,0,1,It also gets tricky to keep track of tasks and prioritize responsibilities once you have a lot going on with the platofmr.
+10931,0,1,"labels on cards are not very intuitive , especially when you have many of them."
+10962,5,6,"If we need more features or integration it's more difficult and not that easy as another products as asana, jira etc.; Nice and easy to use but not great if you need integration and another more advanced features."
+10984,5,6,"Adding a better reporting tool, Gantt charts and billing."
+10998,6,7,One thing that could use a change is the inability to edit my comments on the Android mobile application side (suggestion: press and hold).
+11027,0,1,The only real strike against Trello is the lack of formatting options within cards themselves - additional styling would be very handy.
+11071,5,6,"Integrations with OS's features (like Siri, Spotlight Search, etc) would be fine."
+11083,5,6,Sharing got confusing.
+11108,7,8,"Unfortunately, I have to check into the website (or my Android app) in order to see whether certain tasks have moved forward - would love an e-mail summary."
+11160,0,1,"May not fit all workflows, or may require adjusting your workflow to fit the usage of cards."
+11171,0,1,1. Cannot make lists on top level.; 2. Cannot check mark activities top level activity.
+11173,0,1,3. Complex and related tasks cannot be separated into different columns as the Trello model suggests or confusion will arise.
+11174,5,6,4. Links to stuff in Dropbox would be more useful that uploading items to Trello that can fast become obsolete and another upload woul be needed.
+11186,8,9,The page needs to give chrome the context change to only search the card.
+11244,8,9,I have to use plugins for automatic sorting and categorizing.
+11263,0,1,Wish there was a time estimation feature.
+11275,0,1,I think the process of deleting a card could be faster.
+11286,0,1,"Needs more granular options, like assigning sub-tasks to colleagues."
+11288,7,8,"There should be a prompt that says something like ""You have unsaved changes on this page...""."
+11299,0,1,I wish one card could exist in more than one board.
+11300,0,1,Some of the more complex uses would be easier with this feature.
+11322,0,1,Trello's biggest drawback is the ability to unify your view of multiple boards into single 'pane of glass' and to provide robust reports across an organization's boards.
+11330,0,1,There are a few things that I have run into that would be nice to have. One is a calendar that combines boards. Another is allow words overlaid on the color coding. 
+11353,0,1,I'd also like better overviews of where cards are across my team/boards.; I'd like more batch actions.
+11367,0,1,The only thing I don't like is that there is no way to have it automatically open to one of your boards.
+11388,5,6,I would like a little bit more control over the previews the cards show.; Something like cropping the preview image would be great.
+11403,0,1,A better calendar would be great for managing marketing campaigns.
+11431,8,9,It is hard to find a card unless you know a specific word that the card contains.
+11431,0,1,It is hard to find a card unless you know a specific word that the card contains.
+11444,0,1,"Sometimes, having to scroll on one list to see all the cards is a little bit unfortunate."
+11465,0,1,"Maybe this already exists and I'm unaware of it, but having an activity stream per project instead of all in one stream would be fantastic."
+11496,0,1,"When I click to only view my cards, I don't have an easy way to sort by list."
+11498,0,1,"When I want to see all outstanding items, they are only able to be sorted by board."
+11576,0,1,You can only 'archive' a project and not check it as complete.
+11578,0,1,I don't like how you need to go into each card to see the details - people often time miss the comments/details in each card.
+11595,0,1,Historical tracking of cards can be tough.
+11608,0,1,There isn't a specific enough stage for some projects so it is difficult to track timelines.
+11633,0,1,"For example, being able a card across boards is currently not possible, which is a little frustrating."
+11638,0,1,It's also a bit of struggle to use as a todo management system with more complicated tasks -- such as using checklists where multiple people are responsible for different items within the checklist.
+11652,0,1,Doesn't track overall progress of a project.
+11671,8,9,It is difficult to retrieve an archived list or task.
+11682,5,6,Lacks the enterprise reporting capabilities and the ability to tie tasks together from different boards to a project.
+11714,0,1,"Limited labels, cards can only be on one board, can't work with multiple open cards at once."
+11757,5,6,"Minimal integration with other tools, such as calendars and online storage."
+11766,8,9,I wish that you were able to save filters.
+11793,0,1,"Tasks assigning could be better, integration with Slack is good - but not finished."
+11793,5,6,"Tasks assigning could be better, integration with Slack is good - but not finished."
+11836,0,1,I dislike that you can't connect a single card to multiple boards.
+11847,0,1,Trello has no calendar that gives a broad view of when projects are due.
+11892,0,1,"When in the ""cards""view looking at just your tasks, i wish it wouldn't remove you from that view once you edited a card."
+11900,8,9,"Finding users was a bit confusing initially, for some reason."
+11901,7,8,"An email with a dashboard showing task completions, etc, at a high level for the admin would be nice to have."
+11972,5,6,Not a dislike but would love better timer integration and reports.
+11981,0,1,Multiple team member comments become overwhelming.
+12001,5,6,Not enough integration with other products.
+12017,5,6,integration with other platforms is not useful to my position as a Operations Analyst.
+12028,0,1,We can't see tha label name of cards and quickly filter cards by labels.
+12046,7,8,"Too many email notifications, it's annoying."
+12054,7,8,"Hard to think of something, but I would prefer it, if Trello popped up a reminder for tasks taht were due or overdue."
+12073,0,1,There is no availability to create and view subtask on the dashboard.
+12094,8,9,"It misses filters and categories, so when you have a lot of information you could filter what you need only."
+12139,0,1,we have severan problems to follow activities and i cant view the level of the task and i cant see the productivity of the team.
+12165,7,8,"Calendar function seems complicated, Wish I could send myself alerts for when tasks are coming up or overdue."
+12226,0,1,sometimes the number of cards and boards can be overwhelming.
+12244,8,9,The web version on the pc has navigation issues as the cursor unexpectedly moves the entire page.
+12254,0,1,I wish there were more features / options available inside the cards.
+12262,6,7,I like using the desktop version better than mobile app.
+12278,5,6,"Integrations are extra and can get expensive, more functionality would be nice."
+12285,0,1,"Allows you to assign and add due dates, but week in calendaring complex projects."
+12300,0,1,Wish it was easier to move cards between boards I share with other people.
+12314,0,1,i suck at labeling cards in the initial creation.
+12359,0,1,We really need story points for tracking which isn't included in the product.
+12368,0,1,It is not easy to layer boards on top to get a full view.
+12392,0,1,It can get pretty crazy having multiple projects going on at one time and direct messages can get lost.
+12410,8,9,I wish it put things in auto order by due date but you have to manually move it.
+12419,5,6,"I wish they include time sheet manager and integrate Trello with online calendar services like Google, FB (events)."
+12420,5,6,I would love to see integration with social media applications too.
+12427,0,1,Hard to address interdependency of tasks.
+12434,0,1,"No links between tasks, no sub-task with a completion percentage.,."
+12441,6,7,The mobile apps could use a lot of work especially on iOS.
+12482,0,1,That the done tasks still show up on my cards.
+12505,5,6,Doesn't work as well with Gantt charts or if you're running this MSProject-style.
+12512,6,7,I don't think they currently have a mobile client.
+12513,5,6,Limited integration with other complementary tools but they do have an open API.

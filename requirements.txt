@@ -1,0 +1,2 @@
+beautifulsoup==4 4.5.1cfscrape==1.6.8requests==2.12.4selenium==3.0.2nltk==3.2.1pandas==0.18.1scikit-learn==0.17.1numpy==1.11.1vaderSentiment==0.5textblob==0.11.1
+
